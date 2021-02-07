@@ -1,0 +1,7 @@
+||google.com
+||youtube.com
+||twitter.com
+||facebook.com
+||google
+||apple.com
+||inoreader.com
