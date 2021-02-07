@@ -5,3 +5,9 @@
 ||google
 ||apple.com
 ||inoreader.com
+||github.com
+||gstatic.com
+||gstatic.com
+||githubusercontent.com
+||githubassets.com
+||amazonaws.com
